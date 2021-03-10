@@ -4,7 +4,7 @@
 
 ![demo](https://github.com/heavenly-zy/tico-todo/blob/main/demo.gif)
 
-说明：该应用会在当前用户的`home`目录下创建一个名为 .todo_db 来存储数据。
+说明：该应用会在当前用户的`home`目录下创建一个名为`.todo_db`的文件来存储数据。
 
 ## 使用
 
